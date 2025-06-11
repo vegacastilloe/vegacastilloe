@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vegacastilloe">Ernesto</a> 👋</h1>
 </div>
-<img src="https://www.linkedin.com/in/vegacastilloe/overlay/background-image/">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFJ5dE5ZtWHAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715800538049?e=1755129600&v=beta&t=noFz26nQp446vuqFiY_rZ2yMdw4EI3-JWYxXkiO5bUo">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=socialsd)](https://youtube.com/vegacastilloe?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/vegacastilloe)
