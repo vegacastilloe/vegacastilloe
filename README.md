@@ -17,6 +17,59 @@ Soy Consultor en Planificación Financiera e Inteligencia de Negocios, con más 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vegacastilloe)
 
 
+### 💡 Experiencia
+- Consultoría Financiera e Inteligencia de Negocios.
+  - Diseño de estrategias financieras basadas en _inteligencia de negocios_ para optimización de rentabilidad.
+  - Aplicación de **inteligencia artificial** para optimización de _análisis financieros y estrategias de negocios_.
+  - Automatización de procesos impositivos, segmentación de datos y **proyecciones fiscales** con herramientas avanzadas.
+  - Desarrollo de dashboards y reportes estratégicos con Excel 365 (LAMBDA, PQ), SQL y Python, mejorando la visualización de tendencias y riesgos financieros.
+
+
+- Financial Associate Contractor - Data Analyst (Global Consulting / Remote)
+  - Limpieza y estructuración de datos históricos, _asegurando precisión y accesibilidad_ en sistemas IT.
+  - Optimización de dashboards en Looker Studio, integrados con bases de datos MySQL para _mejorar análisis_ de ingresos.
+  - Adaptación de análisis a distintos husos horarios para observar el rendimiento de vendedores de los 5 continentes.
+  - Corrección y mejora de scripts en Google Apps Script, **permitiendo monitoreo de productividad** en tiempo real.
+
+### 🏆 Logros destacados
+- Automatización y eficiencia operativa:
+  - Reducción de tiempos de entrega y mejora en la precisión de reportes fiscales y financieros.
+
+- Liderazgo en inteligencia de negocios:
+  - Implementación de IA y automatización en la toma de decisiones.
+  - Optimización de sistemas y datos: Uso avanzado de SQL, MySQL, Python y Looker Studio para mejorar el análisis financiero.
+
+- Innovación en reportes estratégicos:
+  - Creación de dashboards interactivos para seguimiento de métricas clave en planificación fiscal y de negocios.
+
+### 📈 Evolución tecnológica
+Desde VBA y macros hasta herramientas avanzadas como SQL Server, PostgreSQL, Python, R, Oracle Hyperion, MS 365 y Looker Studio, mi enfoque ha sido integrar tecnología para optimizar análisis financiero y gestión de datos.
+
+### 🏆 Áreas de Experticia y Sectores en los que he trabajado
+📊 Sector Financiero & Inversiones
+-      ✅ Banca → Optimización de reportes financieros, análisis de riesgos y gestión de datos contables. 
+-      ✅ Casas de Bolsa → Modelado financiero, análisis de inversiones y estrategias de rentabilidad.
+
+🏗 Construcción & Manufactura
+-      ✅ Empresas de Construcción → Gestión de costos, presupuestos y optimización de procesos financieros en proyectos de infraestructura. 
+-      ✅ Consumo Masivo → Segmentación de estructuras de costos y optimización de flujo de efectivo.
+
+✈️ Aerolíneas & Transporte
+-      ✅ Aerolíneas → Optimización de costos operativos, análisis financiero en gestión de rutas y estructuras tarifarias.
+-      ✅ Transporte terrestre → Implementación de estructuras de costos. 
+
+🔍 Inspección & Sector Petrolero
+-      ✅ Empresas de Inspección Petrolera → Evaluación de costos y análisis de rentabilidad en el sector.
+-      ✅ Industria Petrolera → Automatización de reportes financieros, presupuestos y análisis contable de operaciones.
+
+🏦 Seguros & Gestión de Riesgos
+-      ✅ Seguros → Modelado financiero, segmentación de riesgos y planificación tributaria en aseguradoras.
+
+
+### 🔥 Retos y comunidad
+Participo activamente en retos de análisis de datos en LinkedIn, compartiendo soluciones avanzadas en Excel dinámico (LET, LAMBDAS), R y Python.
+
+
 ## 🛠 Tecnologías y herramientas  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -30,7 +83,6 @@ Soy Consultor en Planificación Financiera e Inteligencia de Negocios, con más 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)  
-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
