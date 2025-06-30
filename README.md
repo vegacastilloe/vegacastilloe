@@ -1,9 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vegacastilloe">Ernesto</a> 👋</h1>
+  <h1>Hi there!  <img src="https://usagif.com/wp-content/uploads/gifs/handshake-46.gif" width="50">  I'm <a href="https://www.linkedin.com/in/vegacastilloe">Ernesto</a></h1>
+  <!--👋</h1-->
 </div>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFJ5dE5ZtWHAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715800538049?e=1755129600&v=beta&t=noFz26nQp446vuqFiY_rZ2yMdw4EI3-JWYxXkiO5bUo">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=20&duration=2500&pause=&color=00FF00&center=false&width=435&lines=Hola..!+++soy+Ernesto+Vega+Castillo;Lcdo.+en+Contadur%C3%ADa+P%C3%BAblica+y+Data+Analysts...;+Ayudo+a+Empresas+a+transformar+Informaci%C3%B3n;En+Estrategias+Efectivas...)](https://git.io/typing-svg)
 
 ## 📌 Sobre mí
 
@@ -11,13 +13,10 @@ Soy Consultor en Planificación Financiera e Inteligencia de Negocios, con más 
 
 <div align="center">
   <a href="" target="_blank">
-    <img src="/resources/grid-snake.svg" alt=""
+    <img src="/assets/grid-snake.svg" alt=""
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
 </div>
-
-
-
 
 ## 🔗 Conéctame en redes: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vegacastilloe)
