@@ -9,6 +9,16 @@
 
 Soy Consultor en Planificación Financiera e Inteligencia de Negocios, con más de una década de experiencia en automatización de procesos, análisis de datos financieros e integración de tecnologías avanzadas. Mi enfoque se centra en optimizar rentabilidad, mejorar la gestión del flujo de efectivo y reducir costos, aplicando técnicas de ciencia de datos, modelado financiero y automatización con herramientas modernas.
 
+<div align="center">
+  <a href="" target="_blank">
+    <img src="/resources/grid-snake.svg" alt=""
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+</div>
+
+
+
+
 ## 🔗 Conéctame en redes: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vegacastilloe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vegacastilloe)
@@ -47,23 +57,27 @@ Desde VBA y macros hasta herramientas avanzadas como SQL Server, PostgreSQL, Pyt
 
 ### 🏆 Áreas de Experticia y Sectores en los que he trabajado
 📊 Sector Financiero & Inversiones
--      ✅ Banca → Optimización de reportes financieros, análisis de riesgos y gestión de datos contables. 
--      ✅ Casas de Bolsa → Modelado financiero, análisis de inversiones y estrategias de rentabilidad.
+> ✅ Banca → Optimización de reportes financieros, análisis de riesgos y gestión de datos contables.
+> 
+> ✅ Casas de Bolsa → Modelado financiero, análisis de inversiones y estrategias de rentabilidad.
 
 🏗 Construcción & Manufactura
--      ✅ Empresas de Construcción → Gestión de costos, presupuestos y optimización de procesos financieros en proyectos de infraestructura. 
--      ✅ Consumo Masivo → Segmentación de estructuras de costos y optimización de flujo de efectivo.
+> ✅ Empresas de Construcción → Gestión de costos, presupuestos y optimización de procesos financieros en proyectos de infraestructura.
+> 
+> ✅ Consumo Masivo → Segmentación de estructuras de costos y optimización de flujo de efectivo.
 
 ✈️ Aerolíneas & Transporte
--      ✅ Aerolíneas → Optimización de costos operativos, análisis financiero en gestión de rutas y estructuras tarifarias.
--      ✅ Transporte terrestre → Implementación de estructuras de costos. 
+> ✅ Aerolíneas → Optimización de costos operativos, análisis financiero en gestión de rutas y estructuras tarifarias.
+> 
+> ✅ Transporte terrestre → Implementación de estructuras de costos. 
 
 🔍 Inspección & Sector Petrolero
--      ✅ Empresas de Inspección Petrolera → Evaluación de costos y análisis de rentabilidad en el sector.
--      ✅ Industria Petrolera → Automatización de reportes financieros, presupuestos y análisis contable de operaciones.
+> ✅ Empresas de Inspección Petrolera → Evaluación de costos y análisis de rentabilidad en el sector.
+> 
+> ✅ Industria Petrolera → Automatización de reportes financieros, presupuestos y análisis contable de operaciones.
 
 🏦 Seguros & Gestión de Riesgos
--      ✅ Seguros → Modelado financiero, segmentación de riesgos y planificación tributaria en aseguradoras.
+> ✅ Seguros → Modelado financiero, segmentación de riesgos y planificación tributaria en aseguradoras.
 
 
 ### 🔥 Retos y comunidad
