@@ -3,7 +3,7 @@
   <!--👋</h1-->
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFJ5dE5ZtWHAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715800538049?e=1755129600&v=beta&t=noFz26nQp446vuqFiY_rZ2yMdw4EI3-JWYxXkiO5bUo">
+<!--img src="https://media.licdn.com/dms/image/v2/D4E16AQFJ5dE5ZtWHAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715800538049?e=1755129600&v=beta&t=noFz26nQp446vuqFiY_rZ2yMdw4EI3-JWYxXkiO5bUo"-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=&color=00FF00&center=false&width=435&lines=Hola..!+++soy+Ernesto+Vega+Castillo;Lcdo.+en+Contadur%C3%ADa+P%C3%BAblica+y+Data+Analysts...;+Ayudo+a+Empresas+a+transformar+Informaci%C3%B3n;En+Estrategias+Efectivas...)](https://git.io/typing-svg)
 
