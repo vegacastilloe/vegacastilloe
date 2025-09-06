@@ -16,7 +16,7 @@
 ## 📌 Sobre mí
 
 Soy Consultor en Planificación Financiera e Inteligencia de Negocios, con más de una década de experiencia en automatización de procesos, análisis de datos financieros e integración de tecnologías avanzadas. Mi enfoque se centra en optimizar rentabilidad, mejorar la gestión del flujo de efectivo y reducir costos, aplicando técnicas de ciencia de datos, modelado financiero y automatización con herramientas modernas.
-[![Flotando en Netlify 🎈](https://img.shields.io/badge/CV-Flotando%20en%20Netlify-cyan?logo=netlify)](https://ernesto-cv.netlify.app)
+[![Flotando en Netlify 🎈](https://img.shields.io/badge/CV-Flotando%20en%20Netlify-cyan?logo=netlify)](https://cv-vegacastillo.netlify.app)
 
 
 <div align="center">
