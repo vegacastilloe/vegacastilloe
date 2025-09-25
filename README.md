@@ -115,9 +115,9 @@ Desde VBA y macros hasta herramientas avanzadas como SQL Server, PostgreSQL, Pyt
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vegacastilloe&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko" alt="Top Langs"/>
   <br>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko](https://streak-stats.demolab.com?user=vegacastilloe&theme=merko&hide_border=true)"/>
+  <img src="https://streak-stats.demolab.com?user=vegacastilloe&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </div>
 <br>
 
