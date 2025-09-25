@@ -113,16 +113,21 @@ Desde VBA y macros hasta herramientas avanzadas como SQL Server, PostgreSQL, Pyt
 ### 📈 Stats & Contribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vegacastilloe&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vegacastilloe&show_icons=true&theme=merko" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko"/>
+  <br>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko](https://streak-stats.demolab.com?user=vegacastilloe&theme=merko&hide_border=true)"/>
 </div>
+<br>
 
-##
+<!--div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegacastilloe&layout=compact&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=vegacastilloe&theme=merko&hide_border=true)
+<!--/div-->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vegacastilloe&theme=algolia&margin-w=15&margin-h=15)
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<!--p align="center">
+  <!--p align="center">
 <a href="https://github.com/vegacastilloe">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vegacastilloe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
